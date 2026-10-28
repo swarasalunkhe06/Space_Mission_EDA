@@ -28,37 +28,6 @@ The goal is to derive data-driven insights into how the space industry has evolv
 - **Python 3.x**
 - `pandas`, `numpy` – data wrangling
 - `matplotlib`, `seaborn`, `plotly` – visualization
-- `jupyter notebook` – analysis environment
-
-## 📁 Project Structure
-
-```
-space-mission-eda/
-├── data/
-│   ├── raw/                # Original dataset
-│   └── processed/          # Cleaned dataset
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   └── 03_insights_and_visuals.ipynb
-├── images/                 # Exported charts
-├── requirements.txt
-└── README.md
-```
-
-## ▶️ How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/space-mission-eda.git
-cd space-mission-eda
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter
-jupyter notebook
-```
 
 ## 🔍 Key Questions Explored
 
