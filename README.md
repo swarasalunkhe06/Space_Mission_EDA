@@ -71,7 +71,6 @@ jupyter notebook
 
 ## 📊 Sample Insights
 
-> *(Replace with your actual findings once analysis is complete)*
 - Mission success rates have improved significantly since the 1990s.
 - The United States and Russia/USSR account for the majority of historical launches, with China and private players growing fastest in recent years.
 - SpaceX shows a rising launch cadence with a high success rate post-2015.
